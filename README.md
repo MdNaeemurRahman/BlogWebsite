@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 To run this project--
-1. npm run server (to start JSON server)
-2. npm install
-3. npm start
+1. npm install 
+2. npm run server (to start JSON server)
+4. npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
